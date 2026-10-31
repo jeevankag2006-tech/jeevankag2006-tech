@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+<title id="title">Connect with Jeevan</title><desc id="desc">Social links</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070b16"/><stop offset="1" stop-color="#101b35"/></linearGradient>
+  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#247bff"/><stop offset="1" stop-color="#55d5ff"/></linearGradient>
+  <linearGradient id="red" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ff354f"/><stop offset="1" stop-color="#ff7b65"/></linearGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#8ca6d9" opacity=".17"/></pattern>
+</defs>
+<rect width="1200" height="260" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="260" rx="24" fill="url(#dots)"/>
+<rect x="0" y="0" width="1200" height="6" fill="url(#blue)"/>
+<rect x="1010" y="0" width="190" height="6" fill="url(#red)"/>
+
+<text x="48" y="58" fill="#55d5ff" font-family="monospace" font-size="16" letter-spacing="3">04  /  CONNECT</text>
+<text x="48" y="120" fill="#f4f7ff" font-family="Arial, sans-serif" font-size="42" font-weight="700">Let's build something useful.</text>
+<text x="48" y="166" fill="#b8c7e6" font-family="Arial, sans-serif" font-size="21">Open to learning, collaboration and meaningful projects.</text>
+<text x="48" y="220" fill="#8ca6d9" font-family="monospace" font-size="17">GITHUB  ·  jeevankag2006-tech</text>
+<rect x="850" y="76" width="290" height="112" rx="18" fill="#101d35" stroke="#247bff"/>
+<text x="880" y="120" fill="#f4f7ff" font-family="Arial" font-size="22" font-weight="700">STAY CURIOUS</text>
+<text x="880" y="153" fill="#55d5ff" font-family="monospace" font-size="16">MAKE / SHARE / GROW</text>
+
+</svg>

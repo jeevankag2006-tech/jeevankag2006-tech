@@ -1,60 +1,49 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Jeevan V — BTech Cloud Computing Student" width="100%">
+<img src="assets/hero.svg" alt="Jeevan V — Cloud Computing Student" width="100%">
 
-<img src="assets/profile.jpg" alt="Jeevan V profile photo" width="150" style="border-radius:50%">
+<img src="assets/id.png" alt="Jeevan V profile photo" width="180">
 
-### BTech Cloud Computing Student
+# Jeevan V
+### BTech Cloud Computing Student · GM University, Davangere
 
-**Cloud Computing · Software Development · Artificial Intelligence**
-
-[GitHub](https://github.com/jeevankag2006-tech) · [Repositories](https://github.com/jeevankag2006-tech?tab=repositories)
+*Learning by building. Growing through projects.*
 
 </div>
 
 ---
 
-## About
+<img src="assets/about.svg" alt="About Jeevan" width="100%">
 
-I’m a BTech Cloud Computing student who enjoys learning new technologies and building practical software projects. My interests include web development, cloud technologies, Python, and computer vision.
+<img src="assets/stack.svg" alt="Technology stack" width="100%">
 
-- 🎓 BTech — Cloud Computing
-- 💻 Interested in software development and AI-based applications
-- 🚀 Learning by building and improving real-world projects
+## Selected Projects
 
-## Technical Skills
+<img src="assets/projects.svg" alt="Featured projects" width="100%">
 
-| Area | Technologies |
+| Project | Focus |
 |---|---|
-| Programming | Python, C, JavaScript |
-| Web Development | HTML, CSS, Node.js, Express |
-| Databases | MySQL, MongoDB |
-| AI & Computer Vision | OpenCV, YOLO, MediaPipe |
-| Tools | Git, GitHub, VS Code |
+| Smart Cycle Parking System | Web-based parking slot management and booking |
+| Smart Patient Communication System | Face and eye tracking assisted communication |
+| AI Traffic Management | Vehicle detection and traffic analysis |
 
-## Featured Projects
+## Current interests
 
-### Smart Cycle Parking System
-A web-based cycle parking platform with slot management, booking, and a payment workflow.
+- Software and web application development
+- Cloud computing and backend systems
+- Computer vision and AI-assisted applications
+- Building practical student projects
 
-`HTML` `CSS` `JavaScript` `MySQL`
+<img src="assets/connect.svg" alt="Connect with Jeevan" width="100%">
 
-### Smart Patient Communication System
-An assistive communication prototype using facial movement and eye-blink detection to help users generate messages.
+## Connect
 
-`Python` `OpenCV` `MediaPipe` `Text-to-Speech`
-
-### AI Traffic Management
-A computer-vision project focused on vehicle detection and traffic analysis.
-
-`Python` `YOLO` `OpenCV`
+- GitHub: [@jeevankag2006-tech](https://github.com/jeevankag2006-tech)
 
 ---
 
 <div align="center">
 
-**BUILD · LEARN · INNOVATE**
-
-<sub>Thanks for visiting my profile.</sub>
+**BUILD · LEARN · IMPROVE**
 
 </div>

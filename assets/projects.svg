@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="275" viewBox="0 0 1200 275" role="img" aria-labelledby="title desc">
+<title id="title">Featured Projects</title><desc id="desc">Selected software projects</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070b16"/><stop offset="1" stop-color="#101b35"/></linearGradient>
+  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#247bff"/><stop offset="1" stop-color="#55d5ff"/></linearGradient>
+  <linearGradient id="red" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ff354f"/><stop offset="1" stop-color="#ff7b65"/></linearGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#8ca6d9" opacity=".17"/></pattern>
+</defs>
+<rect width="1200" height="275" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="275" rx="24" fill="url(#dots)"/>
+<rect x="0" y="0" width="1200" height="6" fill="url(#blue)"/>
+<rect x="1010" y="0" width="190" height="6" fill="url(#red)"/>
+
+<text x="48" y="55" fill="#55d5ff" font-family="monospace" font-size="16" letter-spacing="3">03  /  SELECTED WORK</text>
+<text x="48" y="105" fill="#f4f7ff" font-family="Arial, sans-serif" font-size="36" font-weight="700">Projects built around real problems</text>
+<rect x="48" y="135" width="350" height="105" rx="14" fill="#101d35" stroke="#247bff"/>
+<text x="70" y="170" fill="#f4f7ff" font-family="Arial" font-size="21" font-weight="700">Smart Cycle Parking</text>
+<text x="70" y="201" fill="#b8c7e6" font-family="Arial" font-size="16">Web-based slot management and booking</text><rect x="425" y="135" width="350" height="105" rx="14" fill="#101d35" stroke="#ff354f"/>
+<text x="447" y="170" fill="#f4f7ff" font-family="Arial" font-size="21" font-weight="700">Smart Patient Communication</text>
+<text x="447" y="201" fill="#b8c7e6" font-family="Arial" font-size="16">Face and eye tracking communication aid</text><rect x="802" y="135" width="350" height="105" rx="14" fill="#101d35" stroke="#247bff"/>
+<text x="824" y="170" fill="#f4f7ff" font-family="Arial" font-size="21" font-weight="700">AI Traffic Management</text>
+<text x="824" y="201" fill="#b8c7e6" font-family="Arial" font-size="16">Vehicle detection and traffic analysis</text>
+</svg>

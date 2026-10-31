@@ -1,23 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Jeevan V — BTech Cloud Computing Student">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#070b16"/>
-      <stop offset="1" stop-color="#142b4b"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#328cff"/>
-      <stop offset="1" stop-color="#5bd6ff"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="300" rx="22" fill="url(#bg)"/>
-  <rect x="0" y="0" width="1200" height="5" rx="2" fill="url(#accent)"/>
-  <path d="M760 0 L1200 0 L1200 300 L950 300 Z" fill="#1b3b65" opacity=".22"/>
-  <circle cx="1040" cy="140" r="155" fill="none" stroke="#328cff" stroke-opacity=".18" stroke-width="1"/>
-  <circle cx="1040" cy="140" r="115" fill="none" stroke="#5bd6ff" stroke-opacity=".16" stroke-width="1"/>
-  <text x="68" y="74" fill="#65c8ff" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="4">CLOUD COMPUTING  /  SOFTWARE  /  AI</text>
-  <text x="64" y="164" fill="#f4f7ff" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="700" letter-spacing="1">JEEVAN V</text>
-  <text x="68" y="211" fill="#b9d7f7" font-family="Arial,Helvetica,sans-serif" font-size="25">BTech Cloud Computing Student</text>
-  <rect x="68" y="239" width="42" height="3" rx="1.5" fill="#ff526b"/>
-  <text x="124" y="247" fill="#a9bad2" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="2">BUILD WITH PURPOSE. KEEP LEARNING.</text>
-  <text x="1135" y="264" fill="#7ba8d8" font-family="monospace" font-size="13" text-anchor="end">PROFILE / 2026</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+<title id="title">Jeevan V | Cloud Computing Student</title><desc id="desc">Developer profile hero banner</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070b16"/><stop offset="1" stop-color="#101b35"/></linearGradient>
+  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#247bff"/><stop offset="1" stop-color="#55d5ff"/></linearGradient>
+  <linearGradient id="red" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ff354f"/><stop offset="1" stop-color="#ff7b65"/></linearGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#8ca6d9" opacity=".17"/></pattern>
+</defs>
+<rect width="1200" height="260" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="260" rx="24" fill="url(#dots)"/>
+<rect x="0" y="0" width="1200" height="6" fill="url(#blue)"/>
+<rect x="1010" y="0" width="190" height="6" fill="url(#red)"/>
+
+<text x="58" y="48" fill="#8ca6d9" font-family="monospace" font-size="16" letter-spacing="3">JEEVAN V  /  DEVELOPER PROFILE</text>
+<text x="58" y="137" fill="#f4f7ff" font-family="Arial, sans-serif" font-size="76" font-weight="800" letter-spacing="2">BUILDING</text>
+<text x="58" y="220" fill="url(#blue)" font-family="Arial, sans-serif" font-size="76" font-weight="800" letter-spacing="2">WHAT'S NEXT.</text>
+<text x="760" y="93" fill="#f4f7ff" font-family="Arial, sans-serif" font-size="28" font-weight="700">BTECH · CLOUD COMPUTING</text>
+<text x="760" y="137" fill="#b8c7e6" font-family="Arial, sans-serif" font-size="21">GM University · Davangere</text>
+<text x="760" y="181" fill="#8ca6d9" font-family="monospace" font-size="16">CODE  /  LEARN  /  BUILD  /  REPEAT</text>
+<rect x="760" y="204" width="270" height="5" rx="3" fill="url(#blue)"/>
+<rect x="1038" y="204" width="100" height="5" rx="3" fill="url(#red)"/>
+
 </svg>
