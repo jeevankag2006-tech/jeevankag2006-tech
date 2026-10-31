@@ -1,38 +1,30 @@
-<h1 align="center">Hi, I'm Jeevan V 👋</h1>
+<div align="center">
 
-<h3 align="center">BTech Cloud Computing Student | Developer</h3>
+# JEEVAN V
 
-<p align="center">
-  Building ideas into real-world projects.
-</p>
+### BTech Cloud Computing Student
 
-<p align="center">
-  <img src="assets/id.png" width="180" alt="Jeevan V">
-</p>
+Building ideas into practical projects with code and curiosity.
 
----
+</div>
 
-## 👨‍💻 About Me
+![Hero](./assets/hero.svg?v=1)
 
-- 🎓 BTech Cloud Computing Student
-- 🏫 GM University, Davangere
-- 💻 Interested in Software Development
-- 🚀 Building real-world projects
+![About](./assets/about-life.svg?v=1)
 
-## 🛠️ Tech Stack
+![Tech Stack](./assets/stack.svg?v=1)
 
-Python | C | Java | HTML | CSS | JavaScript | MongoDB | MySQL | Git
+![Developer ID](./assets/id-dashboard.svg?v=1)
 
-## 🚀 Featured Projects
+## Featured Projects
 
-- Smart Cycle Parking System
-- Smart Patient Communication System
-- AI Traffic Management System
+| Project | Description | Technologies |
+|---|---|---|
+| Smart Cycle Parking System | Web-based cycle slot management and booking concept | HTML, CSS, JavaScript, MySQL |
+| Smart Patient Communication System | Face and eye movement-based communication prototype | Python, OpenCV, MediaPipe |
+| AI Traffic Management | Vehicle detection and traffic analysis project | Python, YOLO, OpenCV |
 
-## 📫 Connect
+![Connect](./assets/connect.svg?v=1)
 
-- GitHub: https://github.com/jeevankag2006-tech
-
----
-
-<p align="center">BUILD • LEARN • GROW 🚀</p>
+<p align="center"><a href="https://github.com/jeevankag2006-tech">GitHub</a></p>
+<p align="center"><b>BUILD • LEARN • GROW</b></p>
