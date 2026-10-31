@@ -1,64 +1,60 @@
-<p align="center">
-  <img src="assets/hero.svg" alt="Jeevan V — BTech Cloud Computing Student" width="100%">
-</p>
+<div align="center">
 
-<p align="center">
-  <strong>Cloud Computing • Software Development • Artificial Intelligence</strong>
-</p>
+<img src="assets/hero.svg" alt="Jeevan V — BTech Cloud Computing Student" width="100%">
 
-<p align="center">
-  <a href="https://github.com/jeevankag2006-tech">GitHub Profile</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/jeevankag2006-tech?tab=repositories">Projects</a>
-</p>
+<img src="assets/profile.jpg" alt="Jeevan V profile photo" width="150" style="border-radius:50%">
+
+### BTech Cloud Computing Student
+
+**Cloud Computing · Software Development · Artificial Intelligence**
+
+[GitHub](https://github.com/jeevankag2006-tech) · [Repositories](https://github.com/jeevankag2006-tech?tab=repositories)
+
+</div>
 
 ---
 
 ## About
 
-I’m a **BTech Cloud Computing student** interested in building practical software solutions and learning modern technologies. I enjoy working with web development, Python, computer vision, and AI-based applications.
+I’m a BTech Cloud Computing student who enjoys learning new technologies and building practical software projects. My interests include web development, cloud technologies, Python, and computer vision.
 
 - 🎓 BTech — Cloud Computing
-- 💻 Interested in software development, cloud technologies, and AI
-- 🚀 Focused on learning by building real-world projects
+- 💻 Interested in software development and AI-based applications
+- 🚀 Learning by building and improving real-world projects
 
-## Tech Stack
+## Technical Skills
 
-**Languages:** Python · C · JavaScript
+| Area | Technologies |
+|---|---|
+| Programming | Python, C, JavaScript |
+| Web Development | HTML, CSS, Node.js, Express |
+| Databases | MySQL, MongoDB |
+| AI & Computer Vision | OpenCV, YOLO, MediaPipe |
+| Tools | Git, GitHub, VS Code |
 
-**Web:** HTML · CSS · Node.js · Express
-
-**Database & Tools:** MySQL · MongoDB · Git · GitHub
-
-**AI & Computer Vision:** OpenCV · YOLO · MediaPipe
-
-## Selected Projects
+## Featured Projects
 
 ### Smart Cycle Parking System
-A web-based cycle parking platform with slot management, booking, and payment workflow.
+A web-based cycle parking platform with slot management, booking, and a payment workflow.
 
-**Technologies:** HTML, CSS, JavaScript, MySQL
+`HTML` `CSS` `JavaScript` `MySQL`
 
 ### Smart Patient Communication System
-An assistive communication concept using facial movement and eye-blink detection to help users generate messages.
+An assistive communication prototype using facial movement and eye-blink detection to help users generate messages.
 
-**Technologies:** Python, OpenCV, MediaPipe, Text-to-Speech
+`Python` `OpenCV` `MediaPipe` `Text-to-Speech`
 
 ### AI Traffic Management
 A computer-vision project focused on vehicle detection and traffic analysis.
 
-**Technologies:** Python, YOLO, OpenCV
+`Python` `YOLO` `OpenCV`
 
 ---
 
-## Connect
+<div align="center">
 
-<p>
-  <a href="https://github.com/jeevankag2006-tech">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-View%20my%20work-111827?style=for-the-badge&logo=github">
-  </a>
-</p>
+**BUILD · LEARN · INNOVATE**
 
-<p align="center">
-  <sub>BUILD • LEARN • INNOVATE</sub>
-</p>
+<sub>Thanks for visiting my profile.</sub>
+
+</div>

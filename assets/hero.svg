@@ -1,21 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-label="Jeevan V — BTech Cloud Computing Student">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Jeevan V — BTech Cloud Computing Student">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#071426"/>
-      <stop offset="1" stop-color="#102b50"/>
+      <stop offset="0" stop-color="#070b16"/>
+      <stop offset="1" stop-color="#142b4b"/>
     </linearGradient>
-    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#38bdf8"/>
-      <stop offset="1" stop-color="#818cf8"/>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#328cff"/>
+      <stop offset="1" stop-color="#5bd6ff"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="270" rx="22" fill="url(#bg)"/>
-  <circle cx="1040" cy="35" r="170" fill="#2563eb" opacity=".12"/>
-  <circle cx="1110" cy="230" r="115" fill="#38bdf8" opacity=".08"/>
-  <path d="M0 225 C250 185 390 285 650 220 S1000 185 1200 220" fill="none" stroke="url(#line)" stroke-width="2" opacity=".5"/>
-  <text x="72" y="108" fill="#eaf4ff" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="1">JEEVAN V</text>
-  <text x="75" y="153" fill="#9cc9f5" font-family="Arial, Helvetica, sans-serif" font-size="23">BTech Cloud Computing Student</text>
-  <rect x="75" y="181" width="8" height="8" rx="4" fill="#38bdf8"/>
-  <text x="95" y="190" fill="#d6e7f8" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="2">BUILD  •  LEARN  •  INNOVATE</text>
-  <text x="1115" y="72" fill="#8bbcf0" font-family="monospace" font-size="18" text-anchor="end">CLOUD / CODE / AI</text>
+  <rect width="1200" height="300" rx="22" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="5" rx="2" fill="url(#accent)"/>
+  <path d="M760 0 L1200 0 L1200 300 L950 300 Z" fill="#1b3b65" opacity=".22"/>
+  <circle cx="1040" cy="140" r="155" fill="none" stroke="#328cff" stroke-opacity=".18" stroke-width="1"/>
+  <circle cx="1040" cy="140" r="115" fill="none" stroke="#5bd6ff" stroke-opacity=".16" stroke-width="1"/>
+  <text x="68" y="74" fill="#65c8ff" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="4">CLOUD COMPUTING  /  SOFTWARE  /  AI</text>
+  <text x="64" y="164" fill="#f4f7ff" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="700" letter-spacing="1">JEEVAN V</text>
+  <text x="68" y="211" fill="#b9d7f7" font-family="Arial,Helvetica,sans-serif" font-size="25">BTech Cloud Computing Student</text>
+  <rect x="68" y="239" width="42" height="3" rx="1.5" fill="#ff526b"/>
+  <text x="124" y="247" fill="#a9bad2" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="2">BUILD WITH PURPOSE. KEEP LEARNING.</text>
+  <text x="1135" y="264" fill="#7ba8d8" font-family="monospace" font-size="13" text-anchor="end">PROFILE / 2026</text>
 </svg>
