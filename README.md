@@ -1,30 +1,64 @@
-<div align="center">
+<p align="center">
+  <img src="assets/hero.svg" alt="Jeevan V — BTech Cloud Computing Student" width="100%">
+</p>
 
-# JEEVAN V
+<p align="center">
+  <strong>Cloud Computing • Software Development • Artificial Intelligence</strong>
+</p>
 
-### BTech Cloud Computing Student
+<p align="center">
+  <a href="https://github.com/jeevankag2006-tech">GitHub Profile</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/jeevankag2006-tech?tab=repositories">Projects</a>
+</p>
 
-Building ideas into practical projects with code and curiosity.
+---
 
-</div>
+## About
 
-![Hero](./assets/hero.svg?v=1)
+I’m a **BTech Cloud Computing student** interested in building practical software solutions and learning modern technologies. I enjoy working with web development, Python, computer vision, and AI-based applications.
 
-![About](./assets/about-life.svg?v=1)
+- 🎓 BTech — Cloud Computing
+- 💻 Interested in software development, cloud technologies, and AI
+- 🚀 Focused on learning by building real-world projects
 
-![Tech Stack](./assets/stack.svg?v=1)
+## Tech Stack
 
-![Developer ID](./assets/id-dashboard.svg?v=1)
+**Languages:** Python · C · JavaScript
 
-## Featured Projects
+**Web:** HTML · CSS · Node.js · Express
 
-| Project | Description | Technologies |
-|---|---|---|
-| Smart Cycle Parking System | Web-based cycle slot management and booking concept | HTML, CSS, JavaScript, MySQL |
-| Smart Patient Communication System | Face and eye movement-based communication prototype | Python, OpenCV, MediaPipe |
-| AI Traffic Management | Vehicle detection and traffic analysis project | Python, YOLO, OpenCV |
+**Database & Tools:** MySQL · MongoDB · Git · GitHub
 
-![Connect](./assets/connect.svg?v=1)
+**AI & Computer Vision:** OpenCV · YOLO · MediaPipe
 
-<p align="center"><a href="https://github.com/jeevankag2006-tech">GitHub</a></p>
-<p align="center"><b>BUILD • LEARN • GROW</b></p>
+## Selected Projects
+
+### Smart Cycle Parking System
+A web-based cycle parking platform with slot management, booking, and payment workflow.
+
+**Technologies:** HTML, CSS, JavaScript, MySQL
+
+### Smart Patient Communication System
+An assistive communication concept using facial movement and eye-blink detection to help users generate messages.
+
+**Technologies:** Python, OpenCV, MediaPipe, Text-to-Speech
+
+### AI Traffic Management
+A computer-vision project focused on vehicle detection and traffic analysis.
+
+**Technologies:** Python, YOLO, OpenCV
+
+---
+
+## Connect
+
+<p>
+  <a href="https://github.com/jeevankag2006-tech">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-View%20my%20work-111827?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+<p align="center">
+  <sub>BUILD • LEARN • INNOVATE</sub>
+</p>
